@@ -6,7 +6,7 @@ Caesar Cipher is an encryption technique that replaces every letter in plaintext
 
 Define a method called **caeser_cipher** that accepts a **string** and a **number**. the method replaces every letter in the **string** with a letter positioned down by **number**.
 
-```diff
+```ruby
 > caesar_cipher("What a string!", 5)
 => "Bmfy xywnsl!"
 ```
