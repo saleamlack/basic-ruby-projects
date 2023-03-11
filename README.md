@@ -1,4 +1,4 @@
-#Basic Ruby Projects
+# Basic Ruby Projects
 
 These projects are from [The Odin Project](https://www.theodinproject.com).
 
